@@ -89,7 +89,7 @@ const Weather = () => {
             </div>
         </div>
         </>:<>
-        <p className='no-data-text'>No Data Found</p>
+        <p className='no-data-text'>City Name Not Found</p>
         </>}
         
     </div>

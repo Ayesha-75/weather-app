@@ -8,5 +8,8 @@
 .app{
   min-height: 100vh;
   display: grid;
-  background: #e2d4ff;
+  /* background: #e2d4ff; */
+  background-image: url('https://res.cloudinary.com/dadtgoi5h/image/upload/v1728537364/Mother_Nature_uin9oq.jpg');
+  background-size: cover;
+  background-position: center;
 }
